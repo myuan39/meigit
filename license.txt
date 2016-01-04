@@ -1,0 +1,1 @@
+This file is supposed to contain license for the readme file.
